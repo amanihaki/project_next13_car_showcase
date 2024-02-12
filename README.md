@@ -1,7 +1,9 @@
 <div align="center">
   <br />
  
-      <img src="https://github.com/adrianhajdin/project_next13_car_showcase/assets/151519281/2453c186-0ae9-448f-b3c4-077bf910680e" alt="Project Banner"/>
+<div>
+      <img src="https://private-user-images.githubusercontent.com/151519281/293452194-2453c186-0ae9-448f-b3c4-077bf910680e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NDI5NTAsIm5iZiI6MTcwNzc0MjY1MCwicGF0aCI6Ii8xNTE1MTkyODEvMjkzNDUyMTk0LTI0NTNjMTg2LTBhZTktNDQ4Zi1iM2M0LTA3N2JmOTEwNjgwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxMlQxMjU3MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NWU4N2RkYjU5YjY0N2Y2ZWQ1YjYyMTUyYTk0ZTczYTU5YzAwOTkyOTMxNDFkOGMwMTM1NTQzMWRkOTAzMjNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jy-wv_9XfXcrxeGoGUaI40xQ7_KsFBHTMVNWMwqaHcY" alt="Project Banner" secured-asset-link="" style="max-width: 100%;">
+    </div>
    
   <br />
 
